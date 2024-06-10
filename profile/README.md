@@ -1,5 +1,7 @@
-# AI for Software Teams
+# No-Code AI for Workflow Automation
 
-Zen helps software professionals to create better software designs and solutions in hours, not weeks.
+Build enterprise-ready AI assistants, apps, and workflow automations in minutes, not weeks.
+ 
+100% private and GDPR compliant. No data leaves your company.
 
-For more information, see our [website](https://zen-data.io).
+For more information, see our [website](https://getzenai.com/).
